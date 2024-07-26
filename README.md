@@ -1,4 +1,4 @@
-[![MasterHead](./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
+![MasterHead](./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Omkar Khanvilkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coderImage" width="370"  src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
